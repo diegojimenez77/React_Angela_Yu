@@ -1,0 +1,13 @@
+.container{
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: column;
+  justify-content: center;
+  align-items:center;
+  height: 100vh;
+  background-image: url("/xbox.jpg");
+  background-repeat: no-repeat; /* evita que se repita la imagen */
+  background-size: cover;       /* hace que la imagen cubra todo el contenedor */
+  background-position: center;  /* centra la imagen */
+   overflow: hidden; /* lo que se salga, no se muestra */
+}

@@ -1,0 +1,9 @@
+header {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    justify-content: space-evenly;
+    font-size: 2rem;
+}
